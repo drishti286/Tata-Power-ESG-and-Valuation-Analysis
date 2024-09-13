@@ -28,9 +28,9 @@ Results
 Intrinsic Value: The DCF analysis indicated an intrinsic share price of ₹860.
 Market Price: The current market price was ₹433.55, suggesting the stock is undervalued by 48.42%.
 ## Recommendations
-Investment Strategy: For long-term investors, Tata Power presents a compelling opportunity due to its undervaluation. Short-term gains may be less likely.
-Financial Health Improvements: Address liquidity and leverage concerns to enhance financial stability and performance.
+* Investment Strategy: For long-term investors, Tata Power presents a compelling opportunity due to its undervaluation. Short-term gains may be less likely.
+* Financial Health Improvements: Address liquidity and leverage concerns to enhance financial stability and performance.
 ## References
-Financial statements and annual reports of Tata Power Company.
-Market data sources for stock prices and valuation metrics.
-Financial modeling and valuation textbooks and resources.
+* Financial statements and annual reports of Tata Power Company.
+* Market data sources for stock prices and valuation metrics.
+* Financial modeling and valuation textbooks and resources.
